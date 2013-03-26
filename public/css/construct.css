@@ -1,10 +1,10 @@
 
 html{background:#0B0300}
-body{display:table;width:1024px;height:100%;margin:0 auto;font:300 13px "Trebuchet MS",Verdana,Arial,Helvetica,宋体,sans-serif}
-a{font:300 13px "Trebuchet MS",Verdana,Arial,Helvetica,宋体,sans-serif;text-decoration:none}
+body{display:table;width:1024px;height:100%;margin:0 auto;font:300 11px "Trebuchet MS",Verdana,Arial,Helvetica,宋体,sans-serif;-webkit-text-size-adjust: none;}
+a{font:300 11px "Trebuchet MS",Verdana,Arial,Helvetica,宋体,sans-serif;text-decoration:none;-webkit-text-size-adjust: none;}
 a:hover{text-decoration:underline}
 
 #vert{display:table-cell; vertical-align:middle;height:100%;}
-#info{width:100%;height:764px;background:url(../images/construct-bg.jpg) 0 0 no-repeat}
-#info p{color:#3a2c04;text-align:center;position:relative;top:670px}
+#info{width:100%;height:794px;background:url(../images/construct-bg.jpg) 0 0 no-repeat;text-align:center;position:relative}
+#info p{color:#3a2c04;position:absolute;width:100%;bottom:15px;line-height:1.7em}
 #info a{color:#3a2c04}
