@@ -1,0 +1,10 @@
+
+html{background:#0B0300}
+body{display:table;width:1024px;height:100%;margin:0 auto;font:300 13px "Trebuchet MS",Verdana,Arial,Helvetica,宋体,sans-serif}
+a{font:300 13px "Trebuchet MS",Verdana,Arial,Helvetica,宋体,sans-serif;text-decoration:none}
+a:hover{text-decoration:underline}
+
+#vert{display:table-cell; vertical-align:middle;height:100%;}
+#info{width:100%;height:764px;background:url(../images/construct-bg.jpg) 0 0 no-repeat}
+#info p{color:#3a2c04;text-align:center;position:relative;top:670px}
+#info a{color:#3a2c04}
